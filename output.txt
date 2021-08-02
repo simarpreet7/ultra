@@ -1,0 +1,111 @@
+searched text | filePath | line number | text  
+# wow occured 0 times|||
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\yauzl\index.js | 98 |   // eocdr means End of Central Directory Record.
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\yauzl\index.js | 256 |     // 0 - Central directory file header signature
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\yauzl\README.md | 110 | An `err` is provided if the End of Central Directory Record cannot be found, or if its metadata appears malformed.
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\yauzl\README.md | 334 | Objects of this class represent Central Directory Records.
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\yauzl\README.md | 498 | The Central Directory, which is the authority on the contents of the .zip file, is at the end of a .zip file, not the beginning.
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\yauzl\README.md | 499 | A streaming API would need to either buffer the entire .zip file to get to the Central Directory before interpreting anything
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\yauzl\README.md | 501 | However, the Local File Headers are explicitly denounced in the spec as being unreliable copies of the Central Directory,
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\yauzl\README.md | 548 | If the "number of this disk" field in the End of Central Directory Record is not `0`,
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\yauzl\README.md | 569 | This data is officially defined to be redundant with the Central Directory information,
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\yauzl\README.md | 575 | This library provides the `crc32` field of `Entry` objects read from the Central Directory.
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 3 | 1/23/2020 Central Kivell Binder 50 19.99 999.5
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 4 | 44076 Central Jardine Pencil 36 4.99 179.64
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 5 | 2/26/2020 Central Gill Pen 27 19.99 539.73
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 8 | 4/18/2020 Central Andrews Pencil 75 1.99 149.25
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 9 | 43956 Central Jardine Pencil 90 4.99 449.1
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 12 | 6/25/2020 Central Morgan Pencil 90 4.99 449.1
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 16 | 43839 Central Smith Desk 2 125 250
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 18 | 43961 Central Morgan Binder 28 8.99 251.72
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 21 | 11/25/2020 Central Kivell Pen Set 96 4.99 479.04
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 22 | 44177 Central Smith Pencil 67 1.29 86.43
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 24 | 1/15/2021 Central Gill Binder 46 8.99 413.54
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 25 | 44198 Central Smith Binder 87 15 1305
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 28 | 3/24/2021 Central Jardine Pen Set 50 4.99 249.5
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 29 | 44473 Central Andrews Pencil 66 1.99 131.34
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 31 | 5/14/2021 Central Gill Pencil 53 1.29 68.37
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 32 | 5/31/2021 Central Gill Binder 80 8.99 719.2
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 33 | 6/17/2021 Central Kivell Desk 5 125 625
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 35 | 7/21/2021 Central Morgan Pen Set 55 12.49 686.95
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 36 | 44385 Central Kivell Pen Set 42 23.95 1005.9
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 38 | 44478 Central Gill Pencil 7 1.29 9.03
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 41 | 10/31/2021 Central Andrews Pencil 14 1.29 18.06
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 42 | 11/17/2021 Central Jardine Binder 11 4.99 54.89
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 43 | 44298 Central Jardine Binder 94 19.99 1879.06
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet1 | 44 | 12/21/2021 Central Andrews Binder 28 4.99 139.72
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 3 | 1/23/2020 Central Kivell Binder 50 19.99 999.5
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 4 | 44076 Central Jardine Pencil 36 4.99 179.64
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 5 | 2/26/2020 Central Gill Pen 27 19.99 539.73
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 8 | 4/18/2020 Central Andrews Pencil 75 1.99 149.25
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 9 | 43956 Central Jardine Pencil 90 4.99 449.1
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 12 | 6/25/2020 Central Morgan Pencil 90 4.99 449.1
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 16 | 43839 Central Smith Desk 2 125 250
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 18 | 43961 Central Morgan Binder 28 8.99 251.72
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 21 | 11/25/2020 Central Kivell Pen Set 96 4.99 479.04
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 22 | 44177 Central Smith Pencil 67 1.29 86.43
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 24 | 1/15/2021 Central Gill Binder 46 8.99 413.54
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 25 | 44198 Central Smith Binder 87 15 1305
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 28 | 3/24/2021 Central Jardine Pen Set 50 4.99 249.5
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 29 | 44473 Central Andrews Pencil 66 1.99 131.34
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 31 | 5/14/2021 Central Gill Pencil 53 1.29 68.37
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 32 | 5/31/2021 Central Gill Binder 80 8.99 719.2
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 33 | 6/17/2021 Central Kivell Desk 5 125 625
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 35 | 7/21/2021 Central Morgan Pen Set 55 12.49 686.95
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 36 | 44385 Central Kivell Pen Set 42 23.95 1005.9
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 38 | 44478 Central Gill Pencil 7 1.29 9.03
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 41 | 10/31/2021 Central Andrews Pencil 14 1.29 18.06
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 42 | 11/17/2021 Central Jardine Binder 11 4.99 54.89
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 43 | 44298 Central Jardine Binder 94 19.99 1879.06
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet2 | 44 | 12/21/2021 Central Andrews Binder 28 4.99 139.72
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 3 | 1/23/2020 Central Kivell Binder 50 19.99 999.5
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 4 | 44076 Central Jardine Pencil 36 4.99 179.64
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 5 | 2/26/2020 Central Gill Pen 27 19.99 539.73
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 8 | 4/18/2020 Central Andrews Pencil 75 1.99 149.25
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 9 | 43956 Central Jardine Pencil 90 4.99 449.1
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 12 | 6/25/2020 Central Morgan Pencil 90 4.99 449.1
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 16 | 43839 Central Smith Desk 2 125 250
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 18 | 43961 Central Morgan Binder 28 8.99 251.72
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 21 | 11/25/2020 Central Kivell Pen Set 96 4.99 479.04
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 22 | 44177 Central Smith Pencil 67 1.29 86.43
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 24 | 1/15/2021 Central Gill Binder 46 8.99 413.54
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 25 | 44198 Central Smith Binder 87 15 1305
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 28 | 3/24/2021 Central Jardine Pen Set 50 4.99 249.5
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 29 | 44473 Central Andrews Pencil 66 1.99 131.34
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 31 | 5/14/2021 Central Gill Pencil 53 1.29 68.37
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 32 | 5/31/2021 Central Gill Binder 80 8.99 719.2
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 33 | 6/17/2021 Central Kivell Desk 5 125 625
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 35 | 7/21/2021 Central Morgan Pen Set 55 12.49 686.95
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 36 | 44385 Central Kivell Pen Set 42 23.95 1005.9
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 38 | 44478 Central Gill Pencil 7 1.29 9.03
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 41 | 10/31/2021 Central Andrews Pencil 14 1.29 18.06
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 42 | 11/17/2021 Central Jardine Binder 11 4.99 54.89
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 43 | 44298 Central Jardine Binder 94 19.99 1879.06
+Central | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\wow.xlsx sheet : Sheet3 | 44 | 12/21/2021 Central Andrews Binder 28 4.99 139.72
+# Central occured 82 times|||
+# sam occured 0 times|||
+@ error : cannot add duplicate string at line number 4 in file C:\Users\VORTON\OneDrive\Desktop\optum\work\input.txt|||
+@ error : cannot search empty string at line number 5 in file C:\Users\VORTON\OneDrive\Desktop\optum\work\input.txt|||
+@ error : cannot add duplicate string at line number 6 in file C:\Users\VORTON\OneDrive\Desktop\optum\work\input.txt|||
+@ error : cannot add duplicate string at line number 7 in file C:\Users\VORTON\OneDrive\Desktop\optum\work\input.txt|||
+@ error : cannot add duplicate string at line number 8 in file C:\Users\VORTON\OneDrive\Desktop\optum\work\input.txt|||
+@ error : cannot search empty string at line number 9 in file C:\Users\VORTON\OneDrive\Desktop\optum\work\input.txt|||
+@ error : cannot add duplicate string at line number 10 in file C:\Users\VORTON\OneDrive\Desktop\optum\work\input.txt|||
+@ error : cannot add duplicate string at line number 11 in file C:\Users\VORTON\OneDrive\Desktop\optum\work\input.txt|||
+@ error : cannot add duplicate string at line number 12 in file C:\Users\VORTON\OneDrive\Desktop\optum\work\input.txt|||
+@ error : cannot search empty string at line number 13 in file C:\Users\VORTON\OneDrive\Desktop\optum\work\input.txt|||
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\@types\node\tls.d.ts | 125 |          * added to the client hello and an 'OCSPResponse' event will be
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\async\dir.js | 32 |  * var hello = function(name, callback) {
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\async\dist\async.js | 2064 |      * var hello = function(name, callback) {
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\async\dist\async.js | 2709 |      * var hello = function(name, callback) {
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\async\dist\async.mjs | 2058 |  * var hello = function(name, callback) {
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\async\dist\async.mjs | 2703 |  * var hello = function(name, callback) {
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\async\log.js | 30 |  * var hello = function(name, callback) {
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\debug\README.md | 280 | log('hello'); // auth hello
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\debug\README.md | 281 | logSign('hello'); //auth:sign hello
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\debug\README.md | 282 | logLogin('hello'); //auth:login hello
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\defaults\test.js | 25 |   var d = { a: [1,2,3], b: { hello : 'world' } };
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\mongoose\node_modules\@types\node\tls.d.ts | 125 |          * added to the client hello and an 'OCSPResponse' event will be
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\tar-fs\test\fixtures\a\hello.txt | 1 | hello world
+hello | C:\Users\VORTON\OneDrive\Desktop\optum\work\tests\node_modules\yargs-parser\README.md | 26 | $ node example.js --foo=33 --bar hello
+# hello occured 14 times|||

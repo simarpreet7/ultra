@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultra Search</title>
+</head>
+<script>
+    function share(){
+        const {ipcRenderer} =require('electron')
+        ipcRenderer.send("search",{input:document.getElementById('input').value,file:document.getElementById('file').value})
+        ipcRenderer.on('logs',(event,data)=>{
+            console.log(data)
+            // document.getElementById('logs').innerText+=toString(data);
+        })
+    }
+</script>
+<body>
+    <h1>utlra search</h1>
+    <input type="text" placeholder="path to search" id="file">
+    <input type="text" placeholder="path to input" id="input">
+    <button onclick="share()">search</button>
+    <h1 id="logs">
+        
+    </h1>
+</body>
+</html>
